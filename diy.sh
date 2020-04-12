@@ -16,6 +16,7 @@ git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/ElonH/Rclone-OpenWrt.git package/rclone
+git clone https://github.com/Sunnice/luci-app-vssr.git package/vssr
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
