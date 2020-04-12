@@ -27,3 +27,4 @@ git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luc
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
 git clone https://github.com/Immueggpain/luci-theme-linksysmaterial.git package/luci-theme-linksysmaterial
+git clone https://github.com/openwrt/luci.git package/openwrt
