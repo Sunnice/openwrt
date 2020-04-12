@@ -17,6 +17,8 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/ElonH/Rclone-OpenWrt.git package/rclone
 git clone https://github.com/Sunnice/luci-app-vssr.git package/vssr
+git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
+git clone https://github.com/openwrt/luci.git package/openwrt
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
@@ -27,4 +29,3 @@ git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git package/luc
 git clone https://github.com/Leo-Jo-My/luci-theme-leo.git package/luci-theme-leo
 git clone https://github.com/rosywrt/luci-theme-purple.git package/luci-theme-purple
 git clone https://github.com/Immueggpain/luci-theme-linksysmaterial.git package/luci-theme-linksysmaterial
-git clone https://github.com/openwrt/luci.git package/openwrt
