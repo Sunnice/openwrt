@@ -19,7 +19,6 @@ git clone https://github.com/ElonH/Rclone-OpenWrt.git package/rclone
 git clone https://github.com/Sunnice/luci-app-vssr.git package/vssr
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
-git clone https://github.com/openwrt/luci.git package/openwrt
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 git clone https://github.com/Lienol/luci-theme-darkmatter.git package/luci-theme-darkmatter
 git clone https://github.com/rosywrt/luci-theme-rosy.git package/luci-theme-rosy
